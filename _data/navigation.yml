@@ -3,7 +3,7 @@ main:
   - title: "이 블로그는?"
     url: "https://aventyr0717.github.io/about"
   - title: "카테고리"
-    url: "https://aventyr0717.github.io/categories/"
+    url: "https://aventyr0717.github.io/categories/"  
   - title: "일기"
     url: "https://aventyr0717.github.io/categories/diary"
   - title: "윤동주"
