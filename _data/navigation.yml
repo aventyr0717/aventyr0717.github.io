@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "이 블로그는?"
+    url: "https://aventyr0717.github.io/about"
+  - title: "카테고리"
+   url: "https://aventyr0717.github.io/categories"
+  - title: "일기"
+    url: "https://aventyr0717.github.io/diary"
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
