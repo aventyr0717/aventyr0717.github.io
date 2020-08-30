@@ -96,7 +96,7 @@ author:
   name             : "Aventyr"
   avatar           : "/assets/images/profile_logo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "뉴비 프로그래머"
-  location         : "Republic of korea, Daegu"
+  location         : "Daegu, Republic of korea"
   email            :
   links:
     - label: "Email"
