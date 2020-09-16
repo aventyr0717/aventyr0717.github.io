@@ -1,5 +1,5 @@
 ---
-title:  "Hello World!!!"
+title:  "Settings Sync..."
 excerpt: ""
 
 categories:
@@ -35,3 +35,5 @@ gist.github.com/아이디/~~~~~   이 ~~~~~가 gist id
 알트 시프트u 는 업로드 알트 시프트 d는 다운로드
 
 끝
+
+
